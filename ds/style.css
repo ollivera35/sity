@@ -1,0 +1,34 @@
+body{
+    background-color: #5EC4CD;
+}
+
+h1 {
+    color: #BF3730;
+    font-size: 50px;
+	padding-left: 10px;
+	line-height: 59px;
+}
+
+figure {
+  background: #FFAD00;
+  padding: 10px;
+  border: thin #c0c0c0 solid;
+  display: block;
+  flex-flow: column;
+  max-width: 420px;
+  float: left;
+  margin: auto;
+}
+
+img {
+  width: 420px;
+  height: 300px;
+}
+
+figcaption {
+  background-color: #222;
+  color: #fff;
+  font: italic smaller sans-serif;
+  padding: 3px;
+  text-align: center;
+}
